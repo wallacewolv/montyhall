@@ -1,7 +1,7 @@
 # montyhall
 Jogo de Monty Hall(Multiplas portas)
 
-Projeto desenvolvido com Vue.js, umum jogo de raciocinio e sorte.
+Projeto desenvolvido com Vue.js, um jogo de raciocinio e sorte.
 
 Suponha que você esteja participando de um jogo com três portas e que atrás de uma delas tenha um carro como prêmio. O apresentador do jogo pede a você que escolha uma porta. Se você escolher a porta que tem o carro, você ganha o carro.
 
